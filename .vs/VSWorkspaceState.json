@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\app",
+    "\\src\\components\\book",
+    "\\src\\components\\booklist",
+    "\\src\\components\\contacts",
+    "\\src\\components\\main"
+  ],
+  "SelectedNode": "\\src\\components\\contacts\\Contacts.jsx",
+  "PreviewInSolutionExplorer": false
+}
